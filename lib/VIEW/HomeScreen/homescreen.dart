@@ -93,7 +93,7 @@ class HomeScreen extends StatelessWidget {
             indicatorSize: TabBarIndicatorSize.tab,
             isScrollable: true,
             dividerHeight: 0,
-            overlayColor: MaterialStatePropertyAll(
+            overlayColor: WidgetStatePropertyAll(
               ColorConstants.secondaryGreen.withOpacity(0.15),
             ),
             splashBorderRadius: BorderRadius.circular(10),
