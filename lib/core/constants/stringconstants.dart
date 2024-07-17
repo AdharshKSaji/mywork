@@ -1,13 +1,13 @@
-const String linkedinUrl = '';
-const String githubUrl = '';
+const String linkedinUrl = 'https://www.linkedin.com/in/adharshksaji/';
+const String githubUrl = 'https://github.com/AdharshKSaji';
 const String stackOverflowUrl =
-    '';
+    'https://stackoverflow.com/users/23688134/adharsh-k-saji';
 const String mailUrl = '';
 const String resumeLink = 'resume/ADHARShFLUTTERCV.pdf';
 
 //contact google form metadata
 const String contactFormLink =
-    'https://docs.google.com/forms/u/0/d/e/1FAIpQLSctaTcLVqSu1RCrPyJygtbAAS26ppgNvNpfv7dDsyXluoL2vw/formResponse';
+    'https://forms.gle/TtkdUsFWkiSEtbyC9';
 const String contactFormNameElementId = 'entry.2005620554';
 const String contactFormEmailElementId = 'entry.1045781291';
 const String contactFormMessageElementId = 'entry.839337160';
