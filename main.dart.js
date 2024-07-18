@@ -26756,7 +26756,7 @@ _.C$=e
 _.a_$=_.M$=0
 _.O$=!1},
 a2H:function a2H(a){this.a=a},
-oS(a,b,c,d,e,f,g){return new A.KM(g,a,b,d)},
+oS(a,b,c,d,e,f){return new A.KM(f,a,b,c)},
 KM:function KM(a,b,c,d){var _=this
 _.a=a
 _.d=b
@@ -85730,7 +85730,7 @@ else{j.e=!0
 j.LR()
 j=j.mX()}if(j===!0){q.a=!0
 q.aw()
-try{p=A.er("https://docs.google.com/forms/u/0/d/e/1FAIpQLSctaTcLVqSu1RCrPyJygtbAAS26ppgNvNpfv7dDsyXluoL2vw/formResponse",0,null)
+try{p=A.er("https://forms.gle/TtkdUsFWkiSEtbyC9",0,null)
 j=p.gmq()
 n=q.b
 m=q.c
@@ -85894,13 +85894,13 @@ A.MA.prototype={
 J(a){var s=null,r=A.bd(a,B.b5,t.w).w.a.a<600?B.h9:B.a8
 return A.p4(A.b([A.r4(s,B.Et,new A.acF(),s,s),A.r4(s,B.Em,new A.acG(),s,s),A.r4(s,B.En,new A.acH(),s,s),A.r4(s,B.Er,new A.acI(),s,s)],t.p),B.ah,r,B.ar)}}
 A.acF.prototype={
-$0(){A.ne(A.er("",0,null))},
+$0(){A.ne(A.er("https://www.linkedin.com/in/adharshksaji/",0,null))},
 $S:0}
 A.acG.prototype={
-$0(){A.ne(A.er("",0,null))},
+$0(){A.ne(A.er("https://github.com/AdharshKSaji",0,null))},
 $S:0}
 A.acH.prototype={
-$0(){A.ne(A.er("",0,null))},
+$0(){A.ne(A.er("https://stackoverflow.com/users/23688134/adharsh-k-saji",0,null))},
 $S:0}
 A.acI.prototype={
 $0(){A.ne(A.er("",0,null))},
@@ -92862,8 +92862,8 @@ r($,"aPh","aA0",()=>A.bg(new A.a5M(),A.bN(4.5,7,11,21),!1,"on_tertiary_fixed",ne
 r($,"aPi","aA1",()=>A.bg(new A.a5I(),A.bN(3,4.5,7,11),!1,"on_tertiary_fixed_variant",new A.a5J(),new A.a5K(),new A.a5L(),null))
 s($,"aQx","aAG",()=>$.vl())
 s($,"aQw","vl",()=>A.aqw(50))
-r($,"aSO","asf",()=>{var q="subtitle",p="summary",o="User Application",n="Home Page",m=null,l="assets/images/TODOADD (1).png",k="Login Page",j=A.ai("v<GH>"),i=t.s
-return A.b([A.oS("https://github.com/AdharshKSaji/enoikiou.git",A.b([A.cm("assets/images/regis.jpeg",o,"Register Page"),A.cm("assets/images/login.jpeg",o," Login Page"),A.cm("assets/images/home.jpeg",o,n),A.cm("assets/images/detail.jpeg",o,"  Detail Page"),A.cm("assets/images/location.jpeg",o,"Location Page"),A.cm("assets/images/booking.jpeg",o,"Booked Page"),A.cm("assets/images/payment.jpeg",o,"Payment Page"),A.cm("assets/images/favoite.jpeg",o,"Favourite Page")],j),m,A.b(["Flutter","Dart","Firebase Auth","FireStore","Google Maps"],i),q,p,"Car Rental(Enikiou)"),A.oS("https://github.com/AdharshKSaji/newsapi.git",A.b([A.cm("assets/images/newshome.png","",n),A.cm("assets/images/newsdetail.png","","Article Details"),A.cm("assets/images/newssearch.png","","Search For News")],j),m,A.b(["Flutter","Dart","REST API","Provider","Hive"],i),q,p,"News App using REST API"),A.oS("https://github.com/AdharshKSaji/to_do.git",A.b([A.cm(l,"","TODO List"),A.cm(l,"","Add TODO")],j),m,A.b(["Flutter","Dart","Hive","Type Adapter"],i),q,p,"TODO Application"),A.oS("https://github.com/AdharshKSaji/budjecttracker.git",A.b([A.cm("assets/images/expensehome (1).png","","Expense Summary"),A.cm("assets/images/screenexpen.png","","Add New Income/Expense")],j),m,A.b(["Flutter","Dart","Provider","Sqflite"],i),q,p,"Expense Tracker"),A.oS("https://github.com/AdharshKSaji/noteapp.git",A.b([A.cm("assets/images/noteadd.png","",n),A.cm("assets/images/otehome.png","","Add New Note")],j),m,A.b(["Flutter","Dart","Hive","Share Plus"],i),q,p,"Notes Application"),A.oS("https://github.com/AdharshKSaji/appquiz.git",A.b([A.cm("assets/images/homequiz.png","",n),A.cm("assets/images/aqizanswer (1).png","","Questions"),A.cm("assets/images/aqizanswer (5).png","","Correct Answer"),A.cm("assets/images/result.png","","Quiz Summary")],j),m,A.b(["Flutter","Dart"],i),q,p,"Quiz Application"),A.oS("https://github.com/AdharshKSaji/prime_videos.git",A.b([A.cm("assets/images/PRIMEACCOUNT.png","",k),A.cm("assets/images/PRIMEHOME.png","","User Page"),A.cm("assets/images/PRIMECARTOON.png","","Movie Page")],j),m,A.b(["Flutter","Dart","Shared Preferences","Google Fonts"],i),q,p,"Amazon Prime Video UI Clone"),A.oS("https://github.com/antonyaiwin/flutter_instagram_clone",A.b([A.cm("assets/images/accountsel.png","",k),A.cm("assets/images/login (1).png","","Account Selection Page"),A.cm("assets/images/logininsta.png","",n),A.cm("assets/images/secondpa.png","","Search Page")],j),"https://antonyaiwin.github.io/flutter_instagram_clone/",A.b(["Flutter","Dart","Staggered Grid","Staggered Grid"],i),q,p,"Instagram UI Clone")],A.ai("v<KM>"))})
+r($,"aSO","asf",()=>{var q="subtitle",p="summary",o="User Application",n="Home Page",m="assets/images/TODOADD (1).png",l="Login Page",k=A.ai("v<GH>"),j=t.s
+return A.b([A.oS("https://github.com/AdharshKSaji/enoikiou.git",A.b([A.cm("assets/images/regis.jpeg",o,"Register Page"),A.cm("assets/images/login.jpeg",o," Login Page"),A.cm("assets/images/home.jpeg",o,n),A.cm("assets/images/detail.jpeg",o,"  Detail Page"),A.cm("assets/images/location.jpeg",o,"Location Page"),A.cm("assets/images/booking.jpeg",o,"Booked Page"),A.cm("assets/images/payment.jpeg",o,"Payment Page"),A.cm("assets/images/favoite.jpeg",o,"Favourite Page")],k),A.b(["Flutter","Dart","Firebase Auth","FireStore","Google Maps"],j),q,p,"Car Rental(Enikiou)"),A.oS("https://github.com/AdharshKSaji/newsapi.git",A.b([A.cm("assets/images/newshome.png","",n),A.cm("assets/images/newsdetail.png","","Article Details"),A.cm("assets/images/newssearch.png","","Search For News")],k),A.b(["Flutter","Dart","REST API","Provider","Hive"],j),q,p,"News App using REST API"),A.oS("https://github.com/AdharshKSaji/to_do.git",A.b([A.cm(m,"","TODO List"),A.cm(m,"","Add TODO")],k),A.b(["Flutter","Dart","Hive","Type Adapter"],j),q,p,"TODO Application"),A.oS("https://github.com/AdharshKSaji/budjecttracker.git",A.b([A.cm("assets/images/expensehome (1).png","","Expense Summary"),A.cm("assets/images/screenexpen.png","","Add New Income/Expense")],k),A.b(["Flutter","Dart","Provider","Sqflite"],j),q,p,"Expense Tracker"),A.oS("https://github.com/AdharshKSaji/noteapp.git",A.b([A.cm("assets/images/noteadd.png","",n),A.cm("assets/images/otehome.png","","Add New Note")],k),A.b(["Flutter","Dart","Hive","Share Plus"],j),q,p,"Notes Application"),A.oS("https://github.com/AdharshKSaji/appquiz.git",A.b([A.cm("assets/images/homequiz.png","",n),A.cm("assets/images/aqizanswer (1).png","","Questions"),A.cm("assets/images/aqizanswer (5).png","","Correct Answer"),A.cm("assets/images/result.png","","Quiz Summary")],k),A.b(["Flutter","Dart"],j),q,p,"Quiz Application"),A.oS("https://github.com/AdharshKSaji/prime_videos.git",A.b([A.cm("assets/images/PRIMEACCOUNT.png","",l),A.cm("assets/images/PRIMEHOME.png","","User Page"),A.cm("assets/images/PRIMECARTOON.png","","Movie Page")],k),A.b(["Flutter","Dart","Shared Preferences","Google Fonts"],j),q,p,"Amazon Prime Video UI Clone"),A.oS("https://github.com/AdharshKSaji/instagram_clone_app.git",A.b([A.cm("assets/images/accountsel.png","",l),A.cm("assets/images/login (1).png","","Account Selection Page"),A.cm("assets/images/logininsta.png","",n),A.cm("assets/images/secondpa.png","","Search Page")],k),A.b(["Flutter","Dart","Staggered Grid","Staggered Grid"],j),q,p,"Instagram UI Clone")],A.ai("v<KM>"))})
 r($,"aSW","asg",()=>A.b([A.aqz("Luminar TechnoHub","Jun 2024 - Present","Developed cross-platform mobile applications using Flutter framework for iOS and Android platforms. Implement complex UI designs and animations using Flutter widgets and custom packages. Integrated RESTful APIs and third-party services to fetch and display data in the app. Utilized state management techniques like Provider, Bloc, and Getx for managing application state efficiently.","Flutter Developer (Intern)"),A.aqz("B.M.K Group","Feb 2021 - Dec 2023","Responsible for tracking stock levels and ensuring supplies are adequate to meet customer demand. Their primary duties are to check stock levels, order additional stock and update stock records.","Stock Controller"),A.aqz("Abasoft Technologies","Oct2020 - Dec 2020","Resolve customer technical issues. They solve problems related to modem, internet and network. To that end, they perform tasks such as: Answer customer questions to learn about their situation.","Technical Supporter")],A.ai("v<ND>")))
 s($,"aPK","aot",()=>A.atR())
 s($,"aRs","aBg",()=>!t.Cm.b(A.b([],t.Z)))
