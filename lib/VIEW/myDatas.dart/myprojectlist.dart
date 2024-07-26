@@ -246,8 +246,8 @@ List<ProjectModel> projectList = [
     title: 'Instagram UI Clone',
     subtitle: 'subtitle',
     summary: 'summary',
-    gitLink: 'https://github.com/antonyaiwin/flutter_instagram_clone',
-    liveLink: 'https://antonyaiwin.github.io/flutter_instagram_clone/',
+    gitLink: 'https://github.com/AdharshKSaji/instagram_clone_app.git',
+    
     images: [
       CarouselModel(
         title: 'Login Page',
