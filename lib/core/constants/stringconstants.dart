@@ -3,7 +3,7 @@ const String githubUrl = 'https://github.com/AdharshKSaji';
 const String stackOverflowUrl =
     'https://stackoverflow.com/users/23688134/adharsh-k-saji';
 const String mailUrl = '';
-const String resumeLink = 'resume/ADHARShFLUTTERCV.pdf';
+const String resumeLink = 'resume/Adharsh k Saji - CV.pdf';
 
 //contact google form metadata
 const String contactFormLink =
